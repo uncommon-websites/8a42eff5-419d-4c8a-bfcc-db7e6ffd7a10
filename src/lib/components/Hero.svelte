@@ -5,23 +5,22 @@
 <section class="relative pt-32 pb-20 overflow-hidden bg-black text-white">
 	<div class="max-w-[1400px] mx-auto px-6">
 		<div class="max-w-4xl">
-			<h1 class="text-6xl md:text-7xl lg:text-[5.5rem] leading-[1.1] font-serif font-normal tracking-tight mb-8">
-				Get <span class="italic font-light font-serif">client deliverables</span><br />
-				done with AI
+			<h1 class="text-6xl md:text-7xl lg:text-[5.5rem] leading-[1.1] font-sans font-bold tracking-tight mb-8">
+				Transform operations with <span class="text-primary-500">intelligent agents</span>
 			</h1>
 
 			<p class="text-xl text-gray-400 max-w-2xl mb-10 leading-relaxed font-light font-sans">
-				Accelerate work with AI agents that collaborate, automate,
-				and think alongside your teams.
+				Automate workflows and extract actionable insights from your data. 
+				See results in 4 weeks with AI solutions built for Latin American enterprises.
 			</p>
 
 			<div class="flex flex-wrap gap-4 mb-20">
-				<button class="bg-[#3b82f6] hover:bg-blue-600 text-white px-8 py-4 rounded-full font-medium transition-colors text-base">
-					Book an intro
-				</button>
-				<button class="bg-white/10 hover:bg-white/20 border border-white/10 text-white px-8 py-4 rounded-full font-medium transition-colors text-base">
-					Try it free
-				</button>
+				<a href="#contact" class="bg-primary-600 hover:bg-primary-700 text-white px-8 py-4 rounded-full font-medium transition-colors text-base inline-block">
+					Start a 4-week pilot
+				</a>
+				<a href="mailto:contacto@cunda.io" class="bg-white/10 hover:bg-white/20 border border-white/10 text-white px-8 py-4 rounded-full font-medium transition-colors text-base inline-block">
+					Contact us
+				</a>
 			</div>
 		</div>
 	</div>
@@ -39,7 +38,7 @@
                         <div class="w-3 h-3 rounded-full bg-green-500/20"></div>
                     </div>
                     <div class="mx-auto w-1/3 h-6 bg-white/5 rounded-md text-[10px] flex items-center justify-center text-gray-500 font-mono">
-                        sana.ai/dashboard
+                        cunda.io/dashboard
                     </div>
 				</div>
 				<!-- Content Mockup -->
@@ -89,14 +88,12 @@
     
     <!-- Client Logos -->
     <div class="max-w-[1400px] mx-auto px-6 mt-20">
+        <p class="text-center text-sm text-gray-500 mb-8 uppercase tracking-wider">Trusted by leading Chilean enterprises</p>
         <div class="flex flex-wrap justify-center md:justify-between items-center gap-8 opacity-50 grayscale hover:grayscale-0 transition-all duration-500">
-            <!-- Simple text placeholders for logos as SVGs are complex to recreate perfectly without assets -->
-            <span class="text-xl font-bold font-sans">piab</span>
-            <span class="text-xl font-bold font-serif italic">Hinge Health</span>
-            <span class="text-xl font-bold font-sans tracking-widest">swile</span>
-            <span class="text-xl font-bold font-serif">josh bersin</span>
-            <span class="text-xl font-bold font-sans">Polestar</span>
-            <span class="text-xl font-bold font-sans">Electrolux Group</span>
+            <span class="text-xl font-bold font-sans">Elecmetal</span>
+            <span class="text-xl font-bold font-sans">Inforum</span>
+            <span class="text-xl font-bold font-sans">BeeMagnetic</span>
+            <span class="text-xl font-bold font-sans">Microsoft</span>
         </div>
     </div>
 </section>

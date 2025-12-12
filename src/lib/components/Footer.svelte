@@ -3,47 +3,47 @@
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12 mb-20">
 			<!-- Logo Column -->
 			<div class="lg:col-span-2">
-				<a href="/" class="text-2xl font-serif tracking-tight font-medium block mb-8">Sana</a>
+				<a href="/" class="text-2xl font-sans tracking-tight font-bold block mb-8">Cunda</a>
                 
-                <div class="mt-20">
-                    <a href="#" class="text-sm font-medium border-b border-white pb-1 hover:opacity-80 transition-opacity inline-block">Subscribe to our newsletter</a>
-                    <div class="text-[10px] text-gray-500 mt-4">© Sana Labs AB 2025</div>
+                <div class="space-y-2 text-sm text-gray-400 mb-8">
+                    <p>Cunda SpA</p>
+                    <p>RUT: 77.997.206-2</p>
+                    <p>Los Militares 5620, Office 905</p>
+                    <p>Las Condes, Santiago, Chile</p>
+                </div>
+                
+                <div class="space-y-2 text-sm text-gray-400 mb-8">
+                    <p><a href="mailto:contacto@cunda.io" class="hover:text-white transition-colors">contacto@cunda.io</a></p>
+                    <p><a href="tel:+56938636056" class="hover:text-white transition-colors">+56 9 3863 6056</a></p>
+                </div>
+                
+                <div class="mt-12">
+                    <div class="text-[10px] text-gray-500">© Cunda SpA 2025</div>
                 </div>
 			</div>
 
 			<!-- Column 1 -->
 			<div>
-				<h4 class="text-xs font-bold text-gray-500 uppercase tracking-wider mb-6">Sana Agents</h4>
+				<h4 class="text-xs font-bold text-gray-500 uppercase tracking-wider mb-6">Solutions</h4>
 				<ul class="space-y-3 text-sm text-gray-300">
-					<li><a href="#" class="hover:text-white transition-colors">Overview</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">AI agents</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Enterprise search</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">iOS app</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Solutions</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Integrations</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Events</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Security</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Stories</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Pricing</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Help Center</a></li>
+					<li><a href="#solutions" class="hover:text-white transition-colors">AI Agents</a></li>
+					<li><a href="#solutions" class="hover:text-white transition-colors">Workflow Automation</a></li>
+					<li><a href="#solutions" class="hover:text-white transition-colors">Data Analysis</a></li>
+					<li><a href="#solutions" class="hover:text-white transition-colors">System Integration</a></li>
+					<li><a href="#solutions" class="hover:text-white transition-colors">Custom Development</a></li>
+					<li><a href="#cases" class="hover:text-white transition-colors">Case Studies</a></li>
 				</ul>
 			</div>
 
 			<!-- Column 2 -->
 			<div>
-				<h4 class="text-xs font-bold text-gray-500 uppercase tracking-wider mb-6">Sana Learn</h4>
+				<h4 class="text-xs font-bold text-gray-500 uppercase tracking-wider mb-6">Industries</h4>
 				<ul class="space-y-3 text-sm text-gray-300">
-					<li><a href="#" class="hover:text-white transition-colors">Overview</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Learning management</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Content creation</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">AI tutor</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Solutions</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Partner stories</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Integrations</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Events</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Pricing</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Help Center</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Changelog</a></li>
+					<li><a href="#" class="hover:text-white transition-colors">Manufacturing</a></li>
+					<li><a href="#" class="hover:text-white transition-colors">Consulting</a></li>
+					<li><a href="#" class="hover:text-white transition-colors">Financial Services</a></li>
+					<li><a href="#" class="hover:text-white transition-colors">Wellness</a></li>
+					<li><a href="#" class="hover:text-white transition-colors">Technology</a></li>
 				</ul>
 			</div>
 
@@ -51,14 +51,10 @@
 			<div>
 				<h4 class="text-xs font-bold text-gray-500 uppercase tracking-wider mb-6">Company</h4>
 				<ul class="space-y-3 text-sm text-gray-300">
-					<li><a href="#" class="hover:text-white transition-colors">Hood Releases</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Swedish AI Reform</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Strange Loop Podcast</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Mission</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Careers</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Press</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Legal</a></li>
-					<li><a href="#" class="hover:text-white transition-colors">Cookie settings</a></li>
+					<li><a href="#about" class="hover:text-white transition-colors">About Us</a></li>
+					<li><a href="#about" class="hover:text-white transition-colors">Founders</a></li>
+					<li><a href="#" class="hover:text-white transition-colors">Microsoft Partnership</a></li>
+					<li><a href="mailto:contacto@cunda.io" class="hover:text-white transition-colors">Contact</a></li>
 				</ul>
 			</div>
 		</div>

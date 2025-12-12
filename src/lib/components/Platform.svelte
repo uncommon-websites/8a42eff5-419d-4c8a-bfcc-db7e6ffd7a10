@@ -5,12 +5,12 @@
 <section class="py-24 bg-black text-white">
 	<div class="max-w-[1400px] mx-auto px-6">
 		<div class="text-center mb-20">
-			<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6">
-				Your all-in-one<br />
-				AI platform for real work
+			<h2 class="text-4xl md:text-5xl lg:text-6xl font-sans font-bold mb-6">
+				Intelligent agents that<br />
+				transform your operations
 			</h2>
 			<p class="text-gray-400 text-lg max-w-2xl mx-auto">
-				A seamless, beautiful way to bring AI into your company's apps, knowledge, and culture.
+				From workflow automation to data analysis, our AI solutions deliver measurable results in weeks, not months.
 			</p>
 		</div>
 
@@ -19,8 +19,8 @@
 			<!-- Card 1: Automate -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[600px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Automate</h3>
-					<p class="text-gray-400 text-sm">Run complex, multi-step processes</p>
+					<h3 class="text-lg font-semibold mb-1">Automate Workflows</h3>
+					<p class="text-gray-400 text-sm">Eliminate manual tasks and streamline operations</p>
 				</div>
                 
                 <!-- Mockup Content -->
@@ -44,8 +44,8 @@
 			<!-- Card 2: Create -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[600px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Create</h3>
-					<p class="text-gray-400 text-sm">Generate collaborative content in any format</p>
+					<h3 class="text-lg font-semibold mb-1">Generate Insights</h3>
+					<p class="text-gray-400 text-sm">Transform data into actionable business intelligence</p>
 				</div>
                 
                 <!-- Mockup Content -->
@@ -91,8 +91,8 @@
 			<!-- Card 3: Analyze -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Analyze</h3>
-					<p class="text-gray-400 text-sm">Turn data into live dashboards and reports</p>
+					<h3 class="text-lg font-semibold mb-1">Develop Solutions</h3>
+					<p class="text-gray-400 text-sm">Build custom applications with AI-accelerated development</p>
 				</div>
                 
                  <!-- Mockup Content - Code Editor Look -->
@@ -121,8 +121,8 @@
 			<!-- Card 4: Act -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Act</h3>
-					<p class="text-gray-400 text-sm">Take instant actions across your tools</p>
+					<h3 class="text-lg font-semibold mb-1">Integrate Systems</h3>
+					<p class="text-gray-400 text-sm">Connect ERPs, CRMs, and legacy systems seamlessly</p>
 				</div>
                 
                  <!-- Mockup Content - Action Card -->
@@ -152,8 +152,8 @@
             <!-- Card 5: Find -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Find</h3>
-					<p class="text-gray-400 text-sm">All the latest company docs and data</p>
+					<h3 class="text-lg font-semibold mb-1">Train Teams</h3>
+					<p class="text-gray-400 text-sm">Knowledge transfer for autonomous AI use</p>
 				</div>
                 
                  <!-- Mockup Content - Search/Result -->

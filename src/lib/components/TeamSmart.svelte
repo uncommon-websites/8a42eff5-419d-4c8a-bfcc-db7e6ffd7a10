@@ -6,49 +6,42 @@
 	<div class="max-w-[1400px] mx-auto px-6">
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
 			<div>
-				<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-12 leading-tight">
-					Every team gets smarter<br />
-					with Sana
+				<h2 class="text-4xl md:text-5xl lg:text-6xl font-sans font-bold mb-12 leading-tight">
+					AI solutions for<br />
+					every industry
 				</h2>
 
 				<div class="space-y-6">
-					<div class="flex items-center gap-3 text-red-400 font-medium">
-						<div class="w-2 h-2 bg-red-400 rounded-sm"></div>
-						Sales teams
+					<div class="flex items-center gap-3 text-primary-400 font-medium">
+						<div class="w-2 h-2 bg-primary-400 rounded-sm"></div>
+						Manufacturing & Industrial
 					</div>
 					<p class="text-gray-400 text-sm leading-relaxed pl-5 border-l border-white/10 ml-1 mb-8">
-						Optimize every stage of the deal lifecycle with AI that helps you prep for calls, answers your RFPs, and updates your CRM.
+						Automate R&D analysis, modernize legacy systems, and optimize production workflows with AI agents that understand your processes.
 					</p>
 
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Customer support
+						Consulting & Technology
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						In-house operations
+						Financial Services
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Financial services
+						Wellness & Healthcare
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Industrial companies
-					</div>
-					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
-						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Law firms
+						Operations & Logistics
 					</div>
 				</div>
 			</div>
 
 			<div class="relative">
                 <div class="rounded-xl overflow-hidden aspect-square relative">
-                     <!-- Using a placeholder image that looks like the person in the screenshot -->
-                     <!-- Since I can't use external images easily without knowing if they persist, I'll use a colored placeholder or a gradient if I can't find one. 
-                     But the prompt allows me to use the screenshot as reference. I will try to simulate the UI over an image. -->
-                     <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop" alt="Person using AI" class="w-full h-full object-cover grayscale opacity-80" />
+                     <img src="/generated/image-confident-latin-american-operations-dire-1765563756325-1.webp" alt="Operations leader using AI" class="w-full h-full object-cover opacity-90" />
                      
                      <!-- Chat Input Overlay -->
                      <div class="absolute bottom-8 left-8 right-8 bg-white rounded-2xl p-2 shadow-2xl">

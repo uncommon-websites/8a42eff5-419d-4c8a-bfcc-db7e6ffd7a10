@@ -65,12 +65,12 @@
 
             <!-- Text Content -->
 			<div>
-				<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6 leading-tight">
-					Only use the AI models<br />
-					that work best for you
+				<h2 class="text-4xl md:text-5xl lg:text-6xl font-sans font-bold mb-6 leading-tight">
+					Flexible AI models<br />
+					for every use case
 				</h2>
 				<p class="text-gray-400 text-lg max-w-md">
-					With Sana, you can choose and switch between leading models as you need.
+					We leverage the best AI models for each task—from OpenAI to Claude—ensuring optimal performance and cost efficiency.
 				</p>
 			</div>
 		</div>

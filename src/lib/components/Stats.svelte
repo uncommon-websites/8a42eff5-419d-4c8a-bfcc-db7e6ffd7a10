@@ -8,13 +8,13 @@
 			<!-- Stat 1 -->
 			<div class="flex flex-col h-full justify-between group cursor-pointer">
 				<p class="text-sm text-gray-400 mb-8 leading-relaxed">
-					Global law firm automates compiling and analysis of legal docs
+					Chilean consulting firm automates quote generation and proposal workflows
 				</p>
 				<div>
-					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">62%</div>
+					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">80%</div>
 					<div class="flex items-center gap-2">
-						<div class="w-2 h-2 rounded-full bg-green-500"></div>
-						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Time Savings</span>
+						<div class="w-2 h-2 rounded-full bg-primary-500"></div>
+						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Time Reduction</span>
 					</div>
 				</div>
 			</div>
@@ -22,13 +22,13 @@
 			<!-- Stat 2 -->
 			<div class="flex flex-col h-full justify-between group cursor-pointer">
 				<p class="text-sm text-gray-400 mb-8 leading-relaxed">
-					European fintech scales up uses AI agent for new hire onboarding
+					Wellness platform reduces operational workload with AI automation
 				</p>
 				<div>
-					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">10h</div>
+					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">85%</div>
 					<div class="flex items-center gap-2">
-						<div class="w-2 h-2 rounded-full bg-green-500"></div>
-						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Per Week/Employee Saved</span>
+						<div class="w-2 h-2 rounded-full bg-primary-500"></div>
+						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Workload Reduction</span>
 					</div>
 				</div>
 			</div>
@@ -36,13 +36,13 @@
 			<!-- Stat 3 -->
 			<div class="flex flex-col h-full justify-between group cursor-pointer">
 				<p class="text-sm text-gray-400 mb-8 leading-relaxed">
-					Leading Swedish mining manufacturer automates R&D analysis workflows
+					Industrial manufacturer modernizes front-end systems in record time
 				</p>
 				<div>
-					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">50%</div>
+					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">98%</div>
 					<div class="flex items-center gap-2">
-						<div class="w-2 h-2 rounded-full bg-green-500"></div>
-						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Time Savings</span>
+						<div class="w-2 h-2 rounded-full bg-primary-500"></div>
+						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Client Satisfaction</span>
 					</div>
 				</div>
 			</div>
@@ -50,13 +50,13 @@
 			<!-- Stat 4 -->
 			<div class="flex flex-col h-full justify-between group cursor-pointer">
 				<p class="text-sm text-gray-400 mb-8 leading-relaxed">
-					Industrial market leader uses AI agent to augment customer support
+					Average payback period for AI implementation across all projects
 				</p>
 				<div>
-					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">2x</div>
+					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">6mo</div>
 					<div class="flex items-center gap-2">
-						<div class="w-2 h-2 rounded-full bg-green-500"></div>
-						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Number of Issues Resolved</span>
+						<div class="w-2 h-2 rounded-full bg-primary-500"></div>
+						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">ROI Payback</span>
 					</div>
 				</div>
 			</div>
